@@ -4,7 +4,7 @@
 * [Exercise_03： 第四次作业 Ex1.5](https://www.zybuluo.com/2014301020163/note/525523)
 * [Exercise_04： 第五次作业 Ex2.9](https://www.zybuluo.com/2014301020163/note/533868)
 * [Exercise_05： 第六次作业 Ex2.10](https://www.zybuluo.com/2014301020163/note/542197)
-* [Exercise_06]()
+* [Exercise_06： 第七次作业 Ex3.12 3.13 3.14](https://www.zybuluo.com/2014301020163/note/550140)
 * [Exercise_07]()
 * [Exercise_08]()
 * [Exercise_09]()
