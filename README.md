@@ -11,4 +11,4 @@
 * [Exercise_10： 第十一次作业](https://www.zybuluo.com/2014301020163/note/589982)
 * [Exercise_11： 第十二次作业](https://www.zybuluo.com/2014301020163/note/597846)
 * [Exercise_12： 第十三次作业](https://www.zybuluo.com/2014301020163/note/605059)
-* [Exercise_13： 第十四次作业]（https://www.zybuluo.com/2014301020163/note/624220）
+* [Exercise_13： 第十四次作业](https://www.zybuluo.com/2014301020163/note/624220)
